@@ -1,13 +1,15 @@
 # Movie Dataset Analysis - Power BI Dashboard
 
+> "Film is a wonderful way to look at the world, and the world is a great place to make a film about." 
+
 ## INTRODUCTION
 As a data analyst, I’ve worked with a comprehensive movie dataset containing over **26,000 rows** of detailed information, ranging from financial figures to audience engagement metrics. This dataset includes key data points such as revenue, budget, vote counts, average ratings, popularity scores, release years, and genres. My analysis of this data offers valuable insights into the financial performance of movies, their popularity, and audience preferences, helping to identify trends and patterns in the entertainment industry.
 
 Through visualizations and detailed analysis, I aim to highlight correlations between budget, revenue, runtime, and ratings, as well as offer a deeper understanding of the most successful genres and movie characteristics. The goal is to empower stakeholders with actionable insights to optimize movie production strategies, marketing, and investment decisions.
 
-[**Power BI Dashboard Link**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movie-analysis-dashboard.pdf)
-[**Data Cleaning & EDA**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies_analysis.ipynb)
-[**Dataset Link**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies.csv)
+- [**Power BI Dashboard Link**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movie-analysis-dashboard.pdf)
+- [**Data Cleaning & EDA**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies_analysis.ipynb)
+- [**Dataset Link**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies.csv)
 
 ## DATA STRUCTURE
 
@@ -91,6 +93,6 @@ Based on the insights from the movie dataset analysis, here are key recommendati
 ## CONCLUSION
 In conclusion, this analysis of the movie dataset has provided actionable insights into how factors like genre, runtime, audience ratings, and popularity influence a movie’s financial success. By focusing on high-performing genres, optimizing runtimes, and enhancing content quality to drive better ratings, movie producers and studios can significantly improve their profitability. The dashboard’s visualizations and trend analysis offer a clear view of these factors, enabling data-driven decision-making that can guide both production and marketing strategies for future movie releases.
 
-[**Power BI Dashboard Link**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movie-analysis-dashboard.pdf)
-[**Data Cleaning & EDA**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies_analysis.ipynb)
-[**Dataset Link**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies.csv)
+- [**Power BI Dashboard Link**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movie-analysis-dashboard.pdf)
+- [**Data Cleaning & EDA**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies_analysis.ipynb)
+- [**Dataset Link**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies.csv)
