@@ -7,9 +7,9 @@ As a data analyst, I’ve worked with a comprehensive movie dataset containing o
 
 Through visualizations and detailed analysis, I aim to highlight correlations between budget, revenue, runtime, and ratings, as well as offer a deeper understanding of the most successful genres and movie characteristics. The goal is to empower stakeholders with actionable insights to optimize movie production strategies, marketing, and investment decisions.
 
-- [**Power BI Dashboard Link**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movie-analysis-dashboard.pdf)
-- [**Data Cleaning & EDA**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies_analysis.ipynb)
-- [**Dataset Link**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies.csv)
+- IMDB Movie [**Power BI Dashboard**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movie-analysis-dashboard.pdf)
+- IMDB Movie [**Data Cleaning & EDA**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies_analysis.ipynb)
+- IMDB Movie [**Dataset**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies.csv)
 
 ## DATA STRUCTURE
 
@@ -41,7 +41,7 @@ Dataset Preview
 
 This dataset provides a comprehensive snapshot of each movie’s attributes, offering valuable data for trend analysis, financial forecasting, and audience sentiment analysis. By analyzing these columns, data-driven insights can be derived to understand what contributes to a movie’s success in terms of revenue, popularity, and critical reception.
 
-[**Dataset Link**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies.csv)
+- IMDB Movie [**Dataset**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies.csv)
 
 ## EXECUTIVE SUMMARY
 
@@ -71,7 +71,7 @@ The second page dives deeper into genre distribution, runtime analysis, and movi
 - **Revenue vs. Runtime**: The analysis reveals that movies within the 90-120 minute range generate the most revenue, while shorter movies (under 60 minutes) also show strong financial returns.
 - **Average Vote by Movie Title**: The analysis of average ratings by movie title shows that films with higher ratings consistently perform better in terms of audience engagement.
 
-[**Power BI Dashboard Link**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movie-analysis-dashboard.pdf)
+- IMDB Movie [**Power BI Dashboard**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movie-analysis-dashboard.pdf)
 
 ## EDA and Data Cleaning
 In our movie dataset analysis, we performed several key data cleaning steps to ensure accuracy and relevance. Irrelevant columns were dropped, and data was processed to focus on critical metrics. We created an **ROI visualization** to evaluate the relationship between budget and revenue, helping to identify the most profitable movies.
@@ -80,7 +80,7 @@ A **scatter plot** was used to explore the correlation between vote average and 
 
 Finally, we checked **monthly revenue trends** to uncover patterns and identify peak revenue periods. These analyses provide a comprehensive view of how different factors such as genre, ratings, and popularity impact a movie’s financial performance.
 
-[**Data Cleaning & EDA**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies_analysis.ipynb)
+- IMDB Movie [**Data Cleaning & EDA**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies_analysis.ipynb)
 
 ## RECOMMENDATIONS
 Based on the insights from the movie dataset analysis, here are key recommendations for improving movie performance and profitability:
@@ -93,6 +93,6 @@ Based on the insights from the movie dataset analysis, here are key recommendati
 ## CONCLUSION
 In conclusion, this analysis of the movie dataset has provided actionable insights into how factors like genre, runtime, audience ratings, and popularity influence a movie’s financial success. By focusing on high-performing genres, optimizing runtimes, and enhancing content quality to drive better ratings, movie producers and studios can significantly improve their profitability. The dashboard’s visualizations and trend analysis offer a clear view of these factors, enabling data-driven decision-making that can guide both production and marketing strategies for future movie releases.
 
-- [**Power BI Dashboard Link**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movie-analysis-dashboard.pdf)
-- [**Data Cleaning & EDA**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies_analysis.ipynb)
-- [**Dataset Link**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies.csv)
+- IMDB Movie [**Power BI Dashboard**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movie-analysis-dashboard.pdf)
+- IMDB Movie [**Data Cleaning & EDA**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies_analysis.ipynb)
+- IMDB Movie [**Dataset**](https://github.com/NishaChandila/Movies-Analysis/blob/main/movies.csv)
